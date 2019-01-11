@@ -41,6 +41,8 @@ Em 10 de outubro de 2011, ele era o 11º download mais popular do SourceForge, c
 
 
 Para se utilizar o programa basta conectar seu microfone, seleciona-lo e pronto! Já estará disponível para captar seus áudios.
+
+
 Pressionando o play poderá gravar o áudio.
 <img src="audacity1.png">
 
