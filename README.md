@@ -55,5 +55,3 @@ Pressionando o play poderá ouvir o áudio já gravado.
 
 Indo em effects você conseguirá adicionar efeitos ao seu arquivo se áudio como: reverberação, compressão, redução de ruído entre outros.
 <img src="audacity3.png">
-
-
