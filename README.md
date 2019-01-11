@@ -27,7 +27,7 @@ AVALIAÇÃO 4
 <img src="flstudio.png">
 
 
-<center><b>Audacity</b></center>
+<center>Audacity</center>
 
 <img src="audacity.jpg">
 
@@ -37,3 +37,15 @@ O Audacity é muito popular entre os podcasters pelos seus recursos de edição,
 
 Em 10 de outubro de 2011, ele era o 11º download mais popular do SourceForge, com 76,5 milhões de downloads. O Audacity ganhou o prêmio Community Choice Award do SourceForge em 2007 e 2009 na categoria Melhor Projeto Multimídia. Em março de 2015 a hospedagem foi movida para o FossHub e em 21 de fevereiro de 2017 ele excedeu 51,8 milhões de downloads nesta plataforma.
 
+
+
+
+Para se utilizar o programa basta conectar seu microfone, seleciona-lo e pronto! Já estará disponível para captar seus áudios.
+Pressionando o play poderá gravar o áudio.
+<img src="audacity1.png">
+
+Pressionando o stop cessará a gravação.
+<img src="audacity2.png">
+
+Indo em effects você conseguirá adicionar efeitos ao seu arquivo se áudio como: reverberação, compressão, redução de ruído entre outros.
+<img src="audacity3.png">
