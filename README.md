@@ -22,3 +22,6 @@
 <img src="Slide20.JPG">
 <img src="Slide21.JPG">
 <img src="Slide22.JPG">
+
+AVALIAÇÃO 4
+<img src="flstudio.png">
