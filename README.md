@@ -27,7 +27,7 @@ AVALIAÇÃO 4
 <img src="flstudio.png">
 
 
-Audacity
+<center>Audacity</center>
 
 <img src="audacity.jpg">
 
