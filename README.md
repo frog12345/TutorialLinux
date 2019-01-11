@@ -44,11 +44,14 @@ Para se utilizar o programa basta conectar seu microfone, seleciona-lo e pronto!
 <br/>
 <br/>
 <br/>
-Pressionando o play poderá gravar o áudio.
+Pressionando o play poderá ouvir o áudio já gravado.
 <img src="audacity1.png">
 
-Pressionando o stop cessará a gravação.
+Pressionando o gravar iniciará a gravação.
 <img src="audacity2.png">
+
+Pressionando o stop cessará a gravação.
+<img src="audacity4.png">
 
 Indo em effects você conseguirá adicionar efeitos ao seu arquivo se áudio como: reverberação, compressão, redução de ruído entre outros.
 <img src="audacity3.png">
